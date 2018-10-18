@@ -1,1 +1,1 @@
-{"id":"index.html","dependencies":[],"generated":{"html":"    <html>\r\n        <head>\r\n            <meta>\r\n        </head>\r\n        <body>\r\n            \r\n        </body>\r\n</html>"},"hash":"bbc98de973e4c79be83792d1543848cc","cacheData":{}}
+{"id":"index.html","dependencies":[],"generated":{"html":"<!DOCTYPE html>\r\n<html>\r\n    <head>\r\n        <meta charset=\"utf-8\">\r\n        <title>My Songbook</title>\r\n    </head>\r\n    <body>\r\n        <h1>Servus!</h1>\r\n    </body>\r\n</html>"},"hash":"66e1f7784b419f785ed0627d334728e8","cacheData":{}}
